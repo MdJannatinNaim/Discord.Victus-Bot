@@ -1,0 +1,28 @@
+{
+  "name": "victus-bot",
+  "version": "1.0.0",
+  "description": "jNaim's Victus' official Discord Bot.",
+  "main": "app.js",
+  "scripts": {
+      "dev" : "nodemon app.js",
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JannatinNaim/Discord.Victus-Bot.git"
+  },
+  "keywords": [
+    "Bot"
+  ],
+  "author": "Jannatin Naim",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/JannatinNaim/Discord.Victus-Bot/issues"
+  },
+  "homepage": "https://github.com/JannatinNaim/Discord.Victus-Bot#readme",
+  "dependencies": {
+    "discord.js": "^12.5.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.6"
+  }
+}
